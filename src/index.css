@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+.btn{
+ @apply m-5 h-[40px] w-[120px];
+}
+
+@tailwind utilities;
